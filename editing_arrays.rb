@@ -4,11 +4,11 @@ rainbow_colors = [
   "light_cyan"
 ]
 
-def change_rainbow_colors =[
-  "red"
-  "light_red"
-  "light_yellow"
-  ] 
+def change_rainbow_colors 
+  rainbow_colors = [red]
+  rainbow_colors = [light_red]
+  rainbow_colors = [light_yellow]
+  
 end
 
 def add_colors
